@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Jake\'s Blog',
   author: 'Jake He',
   headerTitle: 'Jake\'s Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Thoughts and learnings',
   language: 'en-au',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',

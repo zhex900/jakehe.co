@@ -1,3 +1,4 @@
+//Hero image (16 x 9)
 const projectsData = [
   {
     title: 'A Search Engine',
